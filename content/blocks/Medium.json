@@ -1,6 +1,6 @@
 {
   "type": "StorageBlock",
-  "name": "Mega Almacen",
+  "name": "Medium Almacen",
   "description": "Bloque masivo para conectar muchas cintas.",
   "size": 5,
   "itemCapacity": 15000,
