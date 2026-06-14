@@ -1,0 +1,13 @@
+{
+  "type": "StorageBlock",
+  "name": "Almacen Mediano",
+  "description": "Un almacen de tamaño intermedio de 5x5 bloques.",
+  "size": 5,
+  "itemCapacity": 7500,
+  "requirements": [
+    { "item": "copper", "amount": 200 },
+    { "item": "lead", "amount": 200 },
+    { "item": "titanium", "amount": 50 }
+  ],
+  "category": "effect"
+}
