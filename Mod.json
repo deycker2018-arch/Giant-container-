@@ -1,0 +1,8 @@
+{
+  "name": "almacen-gigante",
+  "displayName": "Gran Almacen Industrial",
+  "author": "TuNombre",
+  "description": "Un almacen gigante de 6x6 bloques de tamano fisico.",
+  "version": "1.0",
+  "minGameVersion": "136"
+}
