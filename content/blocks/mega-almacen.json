@@ -1,0 +1,12 @@
+{
+  "type": "StorageBlock",
+  "name": "Mega Almacen",
+  "description": "Bloque masivo para conectar muchas cintas.",
+  "size": 6,
+  "itemCapacity": 15000,
+  "requirements": [
+    { "item": "copper", "amount": 300 },
+    { "item": "lead", "amount": 300 }
+  ],
+  "category": "effect"
+}
